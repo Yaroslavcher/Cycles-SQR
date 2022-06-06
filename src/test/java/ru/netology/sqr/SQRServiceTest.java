@@ -1,6 +1,5 @@
 package ru.netology.sqr;
 import static org.junit.jupiter.api.Assertions.*;
-
 public class SQRServiceTest {
     @org.junit.jupiter.api.Test
     void shouldOverMax() {
